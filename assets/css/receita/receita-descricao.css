@@ -1,6 +1,6 @@
 .receita__descricao {
     font-size: 1.1875rem;
-    line-height: 1.5; /*A altura da fonte*/
-    text-align: justify; /*o texto sempre chega no final e inicio do bloco*/
+    line-height: 1.5;
+    text-align: justify;
     
 }

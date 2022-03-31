@@ -1,5 +1,5 @@
 .menu__item {
-    list-style: none; /*tira as bolinhas do item da lista*/
+    list-style: none;
 }
 
 .menu__item:last-child a {

@@ -1,10 +1,5 @@
 .banner__imagem {
     background: url(../../img/banner.jpg) no-repeat center / cover;
-    /* background-image: url(../../img/banner.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center; */
-    /*height - 72px = funcao para diminuir o tamanho do banner, pq tem o 72 do cabecalho*/
     width: 100%;
 }
 

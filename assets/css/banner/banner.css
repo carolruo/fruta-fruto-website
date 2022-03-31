@@ -1,4 +1,3 @@
 .banner {
-    position: relative; /*para que o banner-titulo fique absoluto em relacao a section do banner; 
-    os filhos do banner sao posicionados em relacao ao banner*/
+    position: relative;
 }

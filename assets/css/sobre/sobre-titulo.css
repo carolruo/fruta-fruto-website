@@ -1,6 +1,6 @@
 .sobre__titulo {
     color: #8d0606;
-    font-family: Pacifico, cursive; /*Usa a pacifico ou qualquer letra cursiva*/
+    font-family: Pacifico, cursive;
 }
 
 @media screen and (min-width: 0) {
