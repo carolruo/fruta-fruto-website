@@ -1,0 +1,15 @@
+.menu__link {
+    color: #808080;
+    margin-right: 1.25rem;
+    text-decoration: none; /*tira as linhas embaixo do link*/
+    text-transform: lowercase;
+}
+
+.menu__link.ativo { /*sobrecarga de classe kkkk*/
+    color: #333333;
+    font-weight: bold;
+}
+
+.menu__link:hover { /*quando parar o mouse em cima*/
+    text-decoration: underline;
+}
